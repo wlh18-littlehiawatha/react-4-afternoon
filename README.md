@@ -437,7 +437,7 @@ export default class Home extends Component {
 
 ### Summary
 
-In this step, we will update the `ClassList` component to display the students enrolled for that specific class. To get this data, we will look at what the `class` route parameter equals an make a `HTTP` request to our `json-server`.
+In this step, we will update the `ClassList` component to display the students enrolled for that specific class. To get this data, we will look at what the `class` route parameter equals and make a `HTTP` request to our `json-server`.
 
 ### Instructions
 
